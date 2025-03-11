@@ -1,2 +1,7 @@
 dev.*
 .DS_Store
+data/02_11_New_loans_mortgage.xlsx
+data/02_13_Rates_mortgage.xlsx
+data/02_16_New_loans_scpa_mortgage.xlsx
+data/02_17_Rates_scpa_mortgage (1).xlsx
+data/downloaded_xlsx
