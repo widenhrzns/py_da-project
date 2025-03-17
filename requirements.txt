@@ -1,0 +1,7 @@
+pandas
+requests
+numpy
+lxml
+os
+BeautifulSoup
+datetime
